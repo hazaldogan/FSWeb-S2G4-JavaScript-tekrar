@@ -104,7 +104,7 @@ for (let i = 0; i < sayilar.length; i++) {
 }
 console.log(enbuyuk);
 
-enkucuk = 100;
+enkucuk = 1000;
 for (let i = 0; i < sayilar.length; i++) {
   if (sayilar[i] < enkucuk) {
     enkucuk = sayilar[i];
